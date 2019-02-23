@@ -1,5 +1,5 @@
 provider "aws" {
-  access_key = "AKA"
-  secret_key = "gmiTmtvX8"
+  access_key = "A"
+  secret_key = "g8"
   region     = "ap-south-1"
 }
